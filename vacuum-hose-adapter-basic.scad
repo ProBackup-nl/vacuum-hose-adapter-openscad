@@ -17,7 +17,7 @@ End1_Wall_Thickness = 2; //0.01
 // Is the measurement the adapter's outside or inside diameter?
 End1_Measurement = "outer"; //[inner, outer]
 // End 1 diameter of the adapter (mm, inch)
-End1_Diameter = [100,0];  //0.01
+End1_Diameter = [100.1,0];  //0.01
 //Length of the start connector, including the flange (mm, inch).
 End1_Length = [40,0];  //0.1
 //Taper of the start connector, use negative to taper other direction.
@@ -67,9 +67,9 @@ End2_Wall_Thickness = 2; //0.01
 // Is the measurement the adapter's outside or inside diameter?
 End2_Measurement = "outer"; //[inner, outer]
 // End 2 diameter of the adapter (mm, inch)
-End2_Diameter = [60,0];  //0.01
+End2_Diameter = [60.1,0];  //0.01
 //Length of the start connector, including the flange (mm, inch).
-End2_Length = [40 ,0];  //0.1
+End2_Length = [40,0];  //0.1
 //Taper of the start connector, use negative to taper other direction.
 End2_Taper = 1;  //0.1
 
